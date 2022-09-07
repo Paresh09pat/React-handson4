@@ -1,0 +1,53 @@
+body {
+  background-color: rgb(168, 229, 240);
+}
+
+.navBar {
+  background-color: rgb(235, 237, 110);
+  display: flex;
+  justify-content: space-around;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.label {
+  font-size: 40px;
+  color: rgb(243, 19, 19);
+  text-shadow: 3px 5px 5px;
+  text-decoration: none;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.StudentsHead {
+  display: flex;
+  justify-content: space-around;
+  font-size: 20px;
+}
+
+.AddStudentsButton {
+  border: 2px solid red;
+  background-color: rgb(201, 155, 245);
+  margin-top: 35px;
+  font-size: 20px;
+  color:azure;
+  font-weight: 600;
+  border-radius: 20px;
+  height: 50px;
+  width: 250px;
+  padding: 8px;
+  text-decoration: none;
+  text-align: center;
+}
+
+.table {
+  text-align: center;
+  background-color: rgb(234, 198, 105);
+  margin-top: 2%;
+  margin-left: 8%;
+  margin-right: 8%;
+  border-radius: 20px;
+  width: 84%;
+  font-size: 20px;
+  padding: 10px;
+
+}
